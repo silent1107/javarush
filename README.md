@@ -1,6 +1,6 @@
-# My Awesome Project
+# javarush
 
-## My Project Plan
+## My Super Project
 
 - Initialize the project repository
 - Add the main feature
