@@ -1,4 +1,4 @@
-# javarush
+# My Super Project
 
 ## My Project Plan
 
